@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>Method.Results.Net.Full</PackageId>
+    <Authors>Cagdas</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/cagdask61/MethodResults</RepositoryUrl>
+    <PackageIcon>ResultLogoFull.png</PackageIcon>
+    <PackageIconUrl />
+    <PackageTags>Result, Results, MethodResults MethodResult, Method, Method.Result, Method.Results, Method.Results.5.0 ,Results.5.0</PackageTags>
+    <PackageReleaseNotes>Full Version Method Results</PackageReleaseNotes>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Desktop\SoftwareAndLesson\SoftwareImages\ResultLogoFull.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
